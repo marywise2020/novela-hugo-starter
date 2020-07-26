@@ -13,4 +13,6 @@ Welcome to my personal resume and portfolio site!
 
 **Thank you so much for stopping by!**
 
-My name is Mary Wise and I am a PhD candidate in the history department at the University of Iowa. My dissertation, titled _Sites of Sovereignty_, explored American Indian women's earthwork and burial site activism in the Midwest at the turn of the twentieth century. 
+My name is Mary Wise and I am a PhD candidate in the history department at the University of Iowa. My dissertation, titled _Sites of Sovereignty_, explored American Indian women's earthwork and burial site activism in the Midwest at the turn of the twentieth century.
+
+Review the posts on my site to learn more about my work experience, education, and intellectual passions. 
