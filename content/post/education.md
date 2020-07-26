@@ -9,3 +9,9 @@ title = "Education"
 
 +++
 # Where I've Studied
+
+B.A. History Ohio University: Awarded August 2012
+
+M.A. Library and Information Studies University of Wisconsin-Madison: Awarded August 2014
+
+PhD History University of Iowa: Expected Spring 2021 
