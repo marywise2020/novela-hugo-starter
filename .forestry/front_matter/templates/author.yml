@@ -23,6 +23,25 @@ fields:
     required: false
   label: Tribe
   description: Please enter your tribe. If you are not Indigenous, please enter N/A
+- name: address
+  type: text
+  config:
+    required: false
+  label: Address
+  description: Share your physical address
+- name: education
+  type: text
+  config:
+    required: false
+  label: Education
+  description: 'Please tell us about your education. This does not have to be formal.
+    We learn in many different ways and we encourage you to share that information
+    with us. '
+- name: avatar
+  type: file
+  config:
+    maxSize: 63
+  label: Photo
 - name: bio
   type: textarea
   default: ''
@@ -32,11 +51,6 @@ fields:
     schema:
       format: markdown
   label: Bio
-- name: avatar
-  type: file
-  config:
-    maxSize: 63
-  label: Avatar Image
 - name: social
   type: field_group_list
   fields:
