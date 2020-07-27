@@ -33,6 +33,12 @@ fields:
     required: false
   label: Tribe
   description: Please enter your tribe. If you are not Indigenous, please enter N/A
+- name: skills
+  type: text
+  config:
+    required: false
+  label: Skills
+  description: 'Tell us a little bit about your skills '
 - name: address
   type: text
   config:
